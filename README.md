@@ -1,2 +1,3 @@
-# Coursera - Repropducible Research Assignment 2
+# Fun project from Coursera
+Looking at wearbale device data to analyze movement.
 
